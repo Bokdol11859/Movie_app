@@ -1,16 +1,13 @@
 import React from 'react';
-import {Link} from 'react-router-dom'
+import {Link} from 'react-router-dom';
+import './Navigation.css';
 
 function Navigation(){
     return(
-        <div>
-            <Link to="/">Home</Link>
-            <Link to='/about'>About</Link>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-        </div>
+        <ul className="navbar">
+            <li><a><Link to="/">Home</Link></a></li>
+            <li><a><Link to='/about'>About</Link></a></li>
+        </ul>
     ) 
 }
 

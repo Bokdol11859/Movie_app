@@ -1,10 +1,11 @@
 import React from 'react';
+import './About.css';
 
 function About(){
     return(
         <span>
             <p>
-                This is Clone Coding from the NomadCoders Lecture
+                This is clone coding from the Nomadcoders lecture
             </p>
         </span>
     )
