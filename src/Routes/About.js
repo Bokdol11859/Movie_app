@@ -1,7 +1,14 @@
 import React from 'react';
 
 function About(){
-    return <span>About this page: I built it because I love movies</span>
+    return(
+        <span>
+            <p>
+                This is Clone Coding from the NomadCoders Lecture
+            </p>
+        </span>
+    )
+     
 }
 
 export default About;
