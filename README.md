@@ -2,4 +2,6 @@ Movie App
 
 2021-08-04
 
-![{5A40CB2A-1BFD-43A5-A65D-4FE7FBC29CDD}](https://user-images.githubusercontent.com/80627536/128048531-212319fc-481a-4624-bf98-4d30ecc30e70.png)
+https://bokdol11859.github.io/Movie_app/#/
+
+![{F0A83EE9-4151-46C1-A451-129DB65F1BA8}](https://user-images.githubusercontent.com/80627536/128051311-b90486e7-d20e-45f0-9ed8-86f934243d02.png)
